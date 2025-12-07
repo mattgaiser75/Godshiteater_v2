@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+huggingface_hub
+crewai==0.51.1; python_version >= "3.10"
+pydantic
